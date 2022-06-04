@@ -1,0 +1,13 @@
+.cm{
+    background-color: rgb(110, 236, 110);
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
+.foot{
+    color:green;
+
+}
+#mandal{
+    color: rgb(12, 120, 236)
+}
